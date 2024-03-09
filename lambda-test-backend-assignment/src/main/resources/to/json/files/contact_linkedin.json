@@ -1,0 +1,87 @@
+{
+    "skills": [
+        "Entrepreneurship",
+        "Interaction Design"
+    ],
+    "location": "San Francisco, California, United States",
+    "job_title": "President, CEO, and Group Partner",
+    "languages": [],
+    "last_name": "Tan",
+    "educations": [
+        {
+            "program": "BS, Computer Systems Engineering",
+            "end_year": "2003",
+            "institute": "Stanford University",
+            "start_year": "1999",
+            "institute_linkedin_url": "https://www.linkedin.com/company/1792/"
+        }
+    ],
+    "first_name": "Garry",
+    "contact_key": "random_string",
+    "company_name": "Y Combinator",
+    "linkedin_url": "https://www.linkedin.com/in/garrytan/",
+    "work_experience": [
+        {
+            "end_date": null,
+            "location": "San Francisco, California, United States",
+            "job_title": "President, CEO, and Group Partner",
+            "is_current": true,
+            "start_date": "Jan 2023",
+            "description": null,
+            "company_name": "Y Combinator",
+            "company_linkedin_url": "https://www.linkedin.com/company/167872/"
+        },
+        {
+            "end_date": null,
+            "location": "San Francisco, California, United States",
+            "job_title": "Board Partner & Advisor",
+            "is_current": true,
+            "start_date": "Jan 2023",
+            "description": null,
+            "company_name": "Initialized Capital",
+            "company_linkedin_url": "https://www.linkedin.com/company/6355249/"
+        },
+        {
+            "end_date": "Dec 2022",
+            "location": "San Francisco Bay Area",
+            "job_title": "Founder & Managing Partner",
+            "is_current": false,
+            "start_date": "Jan 2012",
+            "description": null,
+            "company_name": "Initialized Capital",
+            "company_linkedin_url": "https://www.linkedin.com/company/6355249/"
+        },
+        {
+            "end_date": null,
+            "location": "San Francisco, CA",
+            "job_title": "Cofounder",
+            "is_current": true,
+            "start_date": "Mar 2013",
+            "description": "Easy, simple blogs for $5/mo forever. This is a replacement for Posterous.com, but now one that we intend to charge money for, and keep online for as long as possible. We needed a replacement, and other people do too.",
+            "company_name": "Posthaven",
+            "company_linkedin_url": "https://www.linkedin.com/company/18290956/"
+        },
+        {
+            "end_date": "Nov 2015",
+            "location": "San Francisco, California, United States",
+            "job_title": "Partner",
+            "is_current": false,
+            "start_date": "Dec 2010",
+            "description": "Helped over 700 YC startups over the past 5 years (10 batches) build tomorrow's world-changing companies. Previously designer-in-residence.Wrote key software at YC, including the internal alumni social network and forum Bookface (used by 1 in 3 YC alums every day) and the Demo Day website with realtime video updates.",
+            "company_name": "Y Combinator",
+            "company_linkedin_url": "https://www.linkedin.com/company/167872/"
+        },
+        {
+            "end_date": "Jan 2011",
+            "location": "San Francisco, California, United States",
+            "job_title": "Cofounder",
+            "is_current": false,
+            "start_date": "Jan 2008",
+            "description": "Dead simple posting of everything online using email. Attach documents, photos, music, video, and files of any kind and we'll transcode it to the most web friendly format and host it for you too. Autopost to facebook, twitter, flickr, and all your blogs.I ran full stack design and development: from product definition, interaction design, visual design to software engineering, scaling, database management, systems administration. I designed and shipped major parts of the app including text processing, post editor, customizable blog theme engine, embed expansion, realtime and digest email notifications and subscriptions, and bookmarklet. Varyingly over the years I had to wear all the other hats too -- tech architecture, scaling and optimization, customer support, spam and abuse eradication, branding, PR. It was a blast.Launched in July of 2008 and at peak was a Quantcast Top 200 site. We grew 10x in 2009 and 2.5x in 2010. Acquired by Twitter.Posterous has been hailed in the design community for its focus on no-setup no-signup first time experience, and has been featured in Designing Social Interfaces published by O'Reilly and The Smashing Book by Smashing Magazine. \"What might be the simplest blogging platform to date.\" --Michael Arrington, Techcrunch\"In terms of making things really dead simple Posterous beats every other service or app I have ever used. We can learn from them.\" -- Werner Vogels, CTO Amazon\"The quickest and easiest setup I've ever seen.\" --Huffington Post",
+            "company_name": "Posterous",
+            "company_linkedin_url": "https://www.linkedin.com/company/438720/"
+        }
+    ],
+    "linkedin_profile_id": "ACoAAAAjZw4BW1S6XUulazVGAvcPGNubHeK2iUQ",
+    "licenses_certifications": []
+}

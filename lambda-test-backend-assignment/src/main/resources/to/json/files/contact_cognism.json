@@ -1,0 +1,276 @@
+{
+    "total": 1,
+    "result": [
+        {
+            "id": "7351d07c-9118-403b-a7c1-d6510cc0c378",
+            "fullName": "Stjepan Buljat",
+            "firstName": "Stjepan",
+            "lastName": "Buljat",
+            "email": {
+                "address": "stjepan.buljat@cognism.com",
+                "quality": "HIGH_PLUS"
+            },
+            "linkedinURL": "https://www.linkedin.com/in/sbuljat",
+            "jobTitle": "CTO and Co-Founder",
+            "managementLevel": "Executive-Level",
+            "seniority": "Owner",
+            "jobFunctions": [
+                "TECHNOLOGY",
+                "OVERSIGHT"
+            ],
+            "positionStartDate": "March 2016",
+            "skills": [
+                "UML",
+                "Inventory Management",
+                "JDBC",
+                "JBoss Application Server",
+                "VisualAge",
+                "pureQuery",
+                "Db4o",
+                "Framework Design",
+                "Smalltalk",
+                "Mac OS X",
+                "Glassfish",
+                "Tomcat",
+                "JSF",
+                "Web Development",
+                "Java",
+                "JMX",
+                "J2EE",
+                "JMS",
+                "Loss Prevention",
+                "Groovy",
+                "SQL",
+                "Blackberry",
+                "Git",
+                "Apache",
+                "Django",
+                "Scala",
+                "Servlets",
+                "Back-End Web Development",
+                "JPA",
+                "Amazon Web Services",
+                "PostgreSQL",
+                "WebSphere Application Server",
+                "DB2",
+                "Java Enterprise Edition",
+                "Visual Merchandising",
+                "MySQL",
+                "iPhone",
+                "spray-io",
+                "Swing",
+                "Front-end Development",
+                "EJB",
+                "Play! Framework",
+                "MQ",
+                "REST",
+                "Ant",
+                "WebSphere MQ",
+                "Akka",
+                "Message Queue",
+                "Jasper Reports",
+                "Websphere",
+                "Problem Solving",
+                "Cloud Computing",
+                "Eclipse",
+                "JUnit",
+                "Transaction Processing",
+                "Maven"
+            ],
+            "yearOfBirth": 1978,
+            "country": "Croatia",
+            "city": "Zadar",
+            "education": [
+                {
+                    "field": "Information Systems Engineering",
+                    "school": "Imperial College London",
+                    "start": "1997",
+                    "degree": "MEng",
+                    "end": "2001"
+                },
+                {
+                    "field": "Computer Science",
+                    "school": "FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture",
+                    "start": "2004",
+                    "degree": "Bachelor's degree",
+                    "end": "2008"
+                },
+                {
+                    "field": "Economics",
+                    "school": "Faculty of Economics & Business - Business Management (MBA)",
+                    "start": "2007",
+                    "degree": "univ.spec.oec.",
+                    "end": "2012"
+                },
+                {
+                    "field": "Computer Systems Networking and Telecommunications",
+                    "school": "Cisco Certified Network Associate program",
+                    "start": "2005",
+                    "end": "2005"
+                },
+                {
+                    "field": "Project Management",
+                    "school": "Certified ScrumMaster Training",
+                    "start": "2013",
+                    "degree": "Certified ScrumMaster",
+                    "end": "2013"
+                },
+                {
+                    "field": "Certificate in Quantitative Finance",
+                    "school": "Certificate in Quantitative Finance (CQF)",
+                    "start": "2007",
+                    "degree": "Pass",
+                    "end": "2008"
+                },
+                {
+                    "field": "Computer Science",
+                    "school": "FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture",
+                    "start": "2008",
+                    "degree": "Master's degree",
+                    "end": "2010"
+                },
+                {
+                    "field": "STA Diploma",
+                    "school": "Society of Technical Analysts (STA)",
+                    "start": "2009",
+                    "degree": "Pass",
+                    "end": "2009"
+                },
+                {
+                    "field": "Computing",
+                    "school": "Faculty of Electrical Engineering and Computing, Zagreb",
+                    "start": "2000",
+                    "degree": "Master of Science in Computing (mag.ing.comp)",
+                    "end": "2005"
+                }
+            ],
+            "mobilePhoneNumbers": [
+                {
+                    "number": "+123456789",
+                    "score": 65,
+                    "dnc": false,
+                    "label": "DIRECT_DIAL"
+                }
+            ],
+            "account": {
+                "id": "efc6d975-8599-38ab-8cfe-e1c42ac16dc6",
+                "name": "Cognism",
+                "domain": "cognism.com",
+                "industries": [
+                    "Computer Software"
+                ],
+                "description": "Cognism is the smart all-in-one marketing and sales acceleration solution. We provide organizations a GDPR compliant way to prospect leads and enrich data. ",
+                "shortDescription": "Cognism is a B2B sales acceleration software company that provides a marketing and sales acceleration solution.",
+                "founded": 2015,
+                "website": "cognism.com",
+                "linkedinURL": "https://www.linkedin.com/company/cognism/",
+                "revenue": 17000000,
+                "naics": [
+                    "5182",
+                    "51"
+                ],
+                "sic": [
+                    "737",
+                    "73"
+                ],
+                "sizeFrom": 201,
+                "sizeTo": 500,
+                "tech": [
+                    "Replicated",
+                    "Salesforce",
+                    "Salesloft",
+                    "Lifecycle",
+                    "Docker",
+                    "GDPR",
+                    "Summit",
+                    "Matplotlib",
+                    "AccuRate",
+                    "MongoDB",
+                    "Cadence",
+                    "Digital Marketing",
+                    "Artificial Intelligence",
+                    "Intercom",
+                    "Java EE",
+                    "Yield",
+                    "Node",
+                    "Retargeting",
+                    "Github",
+                    "Cognism",
+                    "Boost",
+                    "Ai",
+                    "Onboard",
+                    "LiNK",
+                    "IBM",
+                    "Sandbox",
+                    "PostgreSQL",
+                    "Office 365 Mail",
+                    "Deep Learning",
+                    "Websphere",
+                    "Gensim",
+                    "Achievers",
+                    "Hubspot",
+                    "Node.js"
+                ],
+                "type": "Public Company",
+                "officePhoneNumbers": [
+                    {
+                        "number": "+16469719264",
+                        "score": 20,
+                        "dnc": false,
+                        "label": "COMPANY_SWITCHBOARD"
+                    }
+                ],
+                "hqPhoneNumbers": [
+                    {
+                        "number": "+442038580822",
+                        "score": 20,
+                        "dnc": false,
+                        "label": "COMPANY_SWITCHBOARD"
+                    }
+                ],
+                "locations": [
+                    {
+                        "type": "hq",
+                        "country": "United Kingdom",
+                        "state": "England",
+                        "city": "London",
+                        "street": "92 Albert Embankment"
+                    },
+                    {
+                        "type": "office",
+                        "country": "United States",
+                        "state": "New York",
+                        "city": "New York",
+                        "zip": "10010",
+                        "street": "43 W 23rd St, New York, NY 10010, USA"
+                    }
+                ],
+                "companyHiring": [
+                    {
+                        "employer": "Cognism",
+                        "jobTitle": "Product-Led Growth Marketing Manager",
+                        "department": "Marketing",
+                        "jobDate": "2021-09-14",
+                        "country": "United Kingdom",
+                        "url": "https://independentjobs.independent.co.uk/job/27635997/product-led-growth-marketing-manager/",
+                        "internship": false,
+                        "workFromHome": false
+                    }
+                ]
+            },
+            "previousAccounts": [
+                {
+                    "name": "ETNA d.o.o.",
+                    "jobTitle": "Product Development Manager",
+                    "role": "Manager",
+                    "start": "September 2013",
+                    "end": "March 2016",
+                    "location": {
+                        "country": "Croatia",
+                        "city": "Zadar"
+                    }
+                }
+            ]
+        }
+    ]
+}
