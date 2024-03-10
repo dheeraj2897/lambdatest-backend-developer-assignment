@@ -10,8 +10,6 @@ import java.util.Map;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class EnrichedData {
-	private String title;
-
     @JsonIgnore
     private final Map<String, Object> additionalProperties = new HashMap<>();
 
